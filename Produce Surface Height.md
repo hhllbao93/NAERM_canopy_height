@@ -11,8 +11,10 @@
     1. [https://www.youtube.com/watch?v=yJpm6sBq8Sk](https://www.youtube.com/watch?v=yJpm6sBq8Sk)
     2. Classification = 2
     3. Need to export to tif
+       
 2. Process DSM
     1. (ReturnNumber = 1) AND (Classification != 7 OR Classification != 18)
     2. Need to export to tif
+       
 3. Process CHM
     1. CHM = DSM-DTM
